@@ -10,16 +10,6 @@ import vn.hoidanit.laptopshop.service.UserService;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RequestParam;
 
-// @Controller
-// public class UserController {
-
-//     @RequestMapping("/")
-//     public String getHomePage() {
-//         return "hello from controller";
-//     }
-// }
-
-@RestController
 @Controller
 public class UserController {
 
@@ -29,14 +19,12 @@ public class UserController {
         this.userService = userService;
     }
 
-    @GetMapping("")
-    @RequestMapping("/hoidanit")
+    @RequestMapping("/")
     public String getHomePage() {
         String test = this.userService.handleHello();
-        return "home.html";
+        return "hello";
     }
 }
-
 // @RestController
 // public class UserController {
 
