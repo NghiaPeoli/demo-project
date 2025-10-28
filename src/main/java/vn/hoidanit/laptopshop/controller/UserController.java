@@ -27,6 +27,14 @@ public class UserController {
         model.addAttribute("test", "day la Vi Du tiep theo");
         return "hello";
     }
+
+    @RequestMapping("/admin/user")
+    public String getUserPage(Model model) {
+        String test = this.userService.handleHello();
+        model.addAttribute("eric", test);
+        model.addAttribute("hoidanit", "from controller with model");
+        return "admin/user/create";
+    }
 }
 // @RestController
 // public class UserController {
