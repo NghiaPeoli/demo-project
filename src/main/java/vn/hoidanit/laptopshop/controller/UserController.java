@@ -1,5 +1,7 @@
 package vn.hoidanit.laptopshop.controller;
 
+import java.util.List;
+
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.ModelAttribute;
@@ -11,8 +13,7 @@ import vn.hoidanit.laptopshop.service.UserService;
 
 @Controller
 public class UserController {
-
-    private UserService userService;
+    private final UserService userService;
 
     public UserController(UserService userService) {
         this.userService = userService;
@@ -20,23 +21,27 @@ public class UserController {
 
     @RequestMapping("/")
     public String getHomePage(Model model) {
-        String test = this.userService.handleHello();
-        model.addAttribute("eric", test);
-        model.addAttribute("test", "day la Vi Du tiep theo");
+        model.addAttribute("eric", "test");
+        model.addAttribute("hoidanit", "from controller with model");
         return "hello";
     }
 
     @RequestMapping("/admin/user")
     public String getUserPage(Model model) {
-        String test = this.userService.handleHello();
+        List<User> users = this.userService.getAllUsers();
+        model.addAttribute("users1", users);
+        return "admin/user/table-user";
+    }
+
+    @RequestMapping("/admin/user/create") // GET
+    public String getCreateUserPage(Model model) {
         model.addAttribute("newUser", new User());
-        model.addAttribute("hoidanit", "from controller with model");
         return "admin/user/create";
     }
 
     @RequestMapping(value = "/admin/user/create1", method = RequestMethod.POST)
     public String createUserPage(Model model, @ModelAttribute("newUser") User hoidanit) {
-        System.out.println(" run here " + hoidanit);
+        this.userService.handleSaveUser(hoidanit);
         return "hello";
     }
 }
