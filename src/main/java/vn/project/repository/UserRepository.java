@@ -1,10 +1,10 @@
-package vn.hoidanit.laptopshop.repository;
+package vn.project.repository;
 
 import java.util.List;
 
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
-import vn.hoidanit.laptopshop.domain.User;
+import vn.project.domain.User;
 
 //crud: create, read, update, delete
 @Repository
