@@ -73,7 +73,7 @@
                     <div class="tab-class text-center">
                         <div class="row g-4">
                             <div class="col-lg-4 text-start">
-                                <h1>Our Organic Products</h1>
+                                <h1>Sản phẩm nổi bật</h1>
                             </div>
                             <div class="col-lg-8 text-end">
                                 <ul class="nav nav-pills d-inline-flex text-center mb-5">
@@ -83,7 +83,7 @@
                                             <span class="text-dark" style="width: 130px;">All Products</span>
                                         </a>
                                     </li>
-                                    <li class="nav-item">
+                                    <!-- <li class="nav-item">
                                         <a class="d-flex py-2 m-2 bg-light rounded-pill" data-bs-toggle="pill"
                                             href="#tab-2">
                                             <span class="text-dark" style="width: 130px;">Vegetables</span>
@@ -106,7 +106,7 @@
                                             href="#tab-5">
                                             <span class="text-dark" style="width: 130px;">Meat</span>
                                         </a>
-                                    </li>
+                                    </li> -->
                                 </ul>
                             </div>
                         </div>
@@ -122,260 +122,14 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">Iphone</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Grapes</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>IPHONE</h4>
+                                                        <p>iPhone 17 pro 256GB Sản phẩm được ra bán ngày 19/9/2025 trên
+                                                            thế giới. Mua để nhận ưu đãi.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-5.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Grapes</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-2.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Raspberries</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-4.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Apricots</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-3.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Banana</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-1.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Oranges</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-2.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Raspberries</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-5.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Grapes</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-2" class="tab-pane fade show p-0">
-                                <div class="row g-4">
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-5.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Grapes</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-2.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Raspberries</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-3" class="tab-pane fade show p-0">
-                                <div class="row g-4">
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-1.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Oranges</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$1328,90</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
@@ -391,45 +145,14 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">Iphone</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Apple</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>IPHONE</h4>
+                                                        <p>iPhone 17 256GB Sản phẩm được ra bán ngày 19/9/2025 trên
+                                                            thế giới. Mua để nhận ưu đãi.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
-                                                            <a href="#"
-                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
-                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
-                                                                Add to cart</a>
-                                                        </div>
-                                                    </div>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-4" class="tab-pane fade show p-0">
-                                <div class="row g-4">
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
-                                            <div class="col-md-6 col-lg-4 col-xl-3">
-                                                <div class="rounded position-relative fruite-item">
-                                                    <div class="fruite-img">
-                                                        <img src="/client/img/fruite-item-5.jpg"
-                                                            class="img-fluid w-100 rounded-top" alt="">
-                                                    </div>
-                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
-                                                    <div
-                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Grapes</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
-                                                        <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$949,11</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
@@ -445,14 +168,14 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">Iphone</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Apricots</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>IPHONE</h4>
+                                                        <p>iPhone 16 promax 256GB được ra mắt và giao bán ngày 27/9/2024
+                                                            tại Việt Nam. Nhận ngay ưu đãi.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$1085.83</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
@@ -461,14 +184,6 @@
                                                     </div>
                                                 </div>
                                             </div>
-                                        </div>
-                                    </div>
-                                </div>
-                            </div>
-                            <div id="tab-5" class="tab-pane fade show p-0">
-                                <div class="row g-4">
-                                    <div class="col-lg-12">
-                                        <div class="row g-4">
                                             <div class="col-md-6 col-lg-4 col-xl-3">
                                                 <div class="rounded position-relative fruite-item">
                                                     <div class="fruite-img">
@@ -476,14 +191,14 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">Samsung</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Banana</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>SAMSUNG</h4>
+                                                        <p>Galaxy S24 Utral 5G 512GB ra mắt 18/01/2024 đến nay
+                                                            vẫn chưa hết hot. Nhận ngay ưu đãi tại đây.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$956.70</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
@@ -499,14 +214,14 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">IPHONE</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Raspberries</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>IPHONE</h4>
+                                                        <p>iPhone 16 Plus 128GB vẫn chưa thể hết hot. Giá cực hời, mua
+                                                            nhận ngay ưu đãi.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$937.71</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
@@ -522,14 +237,60 @@
                                                             class="img-fluid w-100 rounded-top" alt="">
                                                     </div>
                                                     <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
-                                                        style="top: 10px; left: 10px;">Fruits</div>
+                                                        style="top: 10px; left: 10px;">Samsung</div>
                                                     <div
                                                         class="p-4 border border-secondary border-top-0 rounded-bottom">
-                                                        <h4>Oranges</h4>
-                                                        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit sed
-                                                            do eiusmod te incididunt</p>
+                                                        <h4>SAMSUNG</h4>
+                                                        <p>Samsung Galaxy Z Flip7 5G 12GB 256GB ra mắt cách đây 4 tháng
+                                                            9/7/2025. Với giá cực hợp lý.</p>
                                                         <div class="d-flex justify-content-between flex-lg-wrap">
-                                                            <p class="text-dark fs-5 fw-bold mb-0">$4.99 / kg</p>
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$937.71</p>
+                                                            <a href="#"
+                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
+                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                                Add to cart</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                                <div class="rounded position-relative fruite-item">
+                                                    <div class="fruite-img">
+                                                        <img src="/client/img/fruite-item-7.jpg"
+                                                            class="img-fluid w-100 rounded-top" alt="">
+                                                    </div>
+                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
+                                                        style="top: 10px; left: 10px;">Samsung</div>
+                                                    <div
+                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
+                                                        <h4>SAMSUNG</h4>
+                                                        <p>Samsung Galaxy Z Fold7 5G 12GB 256GB vẫn còn đăng rất hot và
+                                                            nhanh hết.</p>
+                                                        <div class="d-flex justify-content-between flex-lg-wrap">
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$1670.72</p>
+                                                            <a href="#"
+                                                                class="btn border border-secondary rounded-pill px-3 text-primary"><i
+                                                                    class="fa fa-shopping-bag me-2 text-primary"></i>
+                                                                Add to cart</a>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-6 col-lg-4 col-xl-3">
+                                                <div class="rounded position-relative fruite-item">
+                                                    <div class="fruite-img">
+                                                        <img src="/client/img/fruite-item-8.jpg"
+                                                            class="img-fluid w-100 rounded-top" alt="">
+                                                    </div>
+                                                    <div class="text-white bg-secondary px-3 py-1 rounded position-absolute"
+                                                        style="top: 10px; left: 10px;">Honor</div>
+                                                    <div
+                                                        class="p-4 border border-secondary border-top-0 rounded-bottom">
+                                                        <h4>HONOR</h4>
+                                                        <p>Honor Magic V5 5G 16GB 512GB dòng máy siêu mỏng siêu nhẹ
+                                                            thuận tiện sử dụng.</p>
+                                                        <div class="d-flex justify-content-between flex-lg-wrap">
+                                                            <p class="text-dark fs-5 fw-bold mb-0">$1632.74</p>
                                                             <a href="#"
                                                                 class="btn border border-secondary rounded-pill px-3 text-primary"><i
                                                                     class="fa fa-shopping-bag me-2 text-primary"></i>
