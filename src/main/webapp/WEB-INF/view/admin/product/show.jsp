@@ -24,7 +24,7 @@
                             <h1 class="mt-4">Manage Products</h1>
                             <ol class="breadcrumb mb-4">
                                 <li class="breadcrumb-item"><a href="/admin">Dashboard</a></li>
-                                <li class="breadcrumb-item active">Products</li>
+                                <li class="breadcrumb-item active">Product</li>
                             </ol>
                             <div class="mt-5">
                                 <div class="row">
@@ -45,11 +45,24 @@
                                                     <th>Action</th>
                                                 </tr>
                                             </thead>
-                                            <!-- <tbody>
-                                                <c:forEach var="user" items="${users1}">
-
+                                            <tbody>
+                                                <c:forEach var="product" items="${products}">
+                                                    <tr>
+                                                        <th>${product.id}</th>
+                                                        <th>${product.name}</th>
+                                                        <th>${product.price}</th>
+                                                        <th>${product.factory}</th>
+                                                        <td>
+                                                            <a href="/admin/product/${product.id}"
+                                                                class="btn btn-success">View</a>
+                                                            <a href="/admin/product/update/${product.id}"
+                                                                class="btn btn-warning  mx-2">Update</a>
+                                                            <a href="/admin/product/delete/${product.id}"
+                                                                class="btn btn-danger">Delete</a>
+                                                        </td>
+                                                    </tr>
                                                 </c:forEach>
-                                            </tbody> -->
+                                            </tbody>
                                         </table>
                                     </div>
                                 </div>
